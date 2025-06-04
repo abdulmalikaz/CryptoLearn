@@ -82,7 +82,7 @@ The system is based on a **3-tier architecture**:
 | **Abdulrahman Alzomae** | Implemented the **Playfair Cipher** and contributed to authentication logic |
 | **Abdullah Alyosef** | Implemented the **Vigenère Cipher** and worked on input validation |
 | **Abdulrahman Alyosef** | Implemented the **Monoalphabetic Substitution** and assisted with UI layout and form validation |
-| **Abdulmalik Alzeer** | Designed and implemented **RBAC (Role-Based Access Control)** and developed the messaging system |
+| **Abdulmalik Alzeer** | Designed and implemented **RBAC (Role-Based Access Control)** and Implemented the DES Algorithim |
 
 
 ---
