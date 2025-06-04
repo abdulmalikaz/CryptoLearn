@@ -76,13 +76,13 @@ The system is based on a **3-tier architecture**:
 
 ## 👥 Group Members & Roles
 
-| Name | Student ID | Contributions |
-|------|------------|----------------|
-| عبدالرحمن الزميع | 444101078 | DES implementation, system design, testing |
-| عبدالله اليوسف | 444102160 | UI logic, messaging system |
-| عبدالملك الزير | 444100765 | Profile update flow, encryption logic |
-| عبدالرحمن اليوسف | 444101277 | Use cases, misuse cases, testing |
-| سلمان المطيري | 444102056 | Database design, transaction control |
+| Name | Student ID 
+|------|------------
+| عبدالرحمن الزميع | 444101078 
+| عبدالله اليوسف | 444102160 
+| عبدالملك الزير | 444100765 
+| عبدالرحمن اليوسف | 444101277 
+| سلمان المطيري | 444102056 
 
 ---
 
