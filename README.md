@@ -76,13 +76,14 @@ The system is based on a **3-tier architecture**:
 
 ## 👥 Group Members & Roles
 
-| Name | Student ID 
-|------|------------
-| Abdulrahman Alzomae| 444101078 
-| Abdullah Alyosef| 444102160 
-| Abdulmalik Alzeer | 444100765 
-| Abdulrahman Alyosef| 444101277 
-| Salman Almutairi | 444102056 
+| Name | Contribution |
+|------|--------------|
+| **Salman Almutairi** | Implemented the **Keyed Transposition** algorithm and helped design the user profile update feature |
+| **Abdulrahman Alzomae** | Implemented the **Playfair Cipher** and contributed to authentication logic |
+| **Abdullah Alyosef** | Implemented the **Vigenère Cipher** and worked on input validation |
+| **Abdulrahman Alyosef** | Implemented the **Monoalphabetic Substitution** and assisted with UI layout and form validation |
+| **Abdulmalik Alzeer** | Designed and implemented **RBAC (Role-Based Access Control)** and developed the messaging system |
+
 
 ---
 
