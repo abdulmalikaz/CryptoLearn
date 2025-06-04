@@ -78,11 +78,11 @@ The system is based on a **3-tier architecture**:
 
 | Name | Student ID 
 |------|------------
-| عبدالرحمن الزميع | 444101078 
-| عبدالله اليوسف | 444102160 
-| عبدالملك الزير | 444100765 
-| عبدالرحمن اليوسف | 444101277 
-| سلمان المطيري | 444102056 
+| Abdulrahman Alzomae| 444101078 
+| Abdullah Alyosef| 444102160 
+| Abdulmalik Alzeer | 444100765 
+| Abdulrahman Alyosef| 444101277 
+| Salman Almutairi | 444102056 
 
 ---
 
