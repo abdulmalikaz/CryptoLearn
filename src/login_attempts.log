@@ -1,0 +1,46 @@
+Timestamp: 2024-12-02T19:45:01.835382900, User: abdul, Action: Login Failed - Incorrect Password
+Timestamp: 2024-12-02T19:45:07.275237100, User: abdul, Action: Login Failed - Incorrect Password
+Timestamp: 2024-12-02T19:45:13.778647700, User: abdul, Action: Login Successful - Awaiting OTP Verification
+Timestamp: 2024-12-02T19:45:18.418844700, User: abdul, Action: Login Failed - Incorrect OTP
+Timestamp: 2024-12-02T19:45:56.378685300, User: kkkkk, Action: Login Successful - Awaiting OTP Verification
+Timestamp: 2024-12-02T19:46:00.858247200, User: kkkkk, Action: Login Successful - OTP Verified
+Timestamp: 2024-12-03T17:02:07.809495900, User: abdul, Action: Login Failed - Incorrect Password
+Timestamp: 2024-12-03T17:04:46.817395800, User: asfasj, Action: Login Failed - User Not Found
+Timestamp: 2024-12-03T17:05:03.434111900, User: abdul, Action: Login Failed - Incorrect Password
+Timestamp: 2024-12-03T17:05:10.088489500, User: abdul, Action: Login Successful - Awaiting OTP Verification
+Timestamp: 2024-12-03T17:05:59.919666400, User: abdul, Action: Login Successful - OTP Verified
+Timestamp: 2024-12-03T17:06:11.800715800, User: abdul, Action: Login Failed - Incorrect Password
+Timestamp: 2024-12-03T17:06:20.329356500, User: abdul, Action: Login Failed - Incorrect Password
+Timestamp: 2024-12-03T17:06:28.703888500, User: abdul, Action: Login Successful - Awaiting OTP Verification
+Timestamp: 2024-12-03T17:07:29.649147800, User: abdul, Action: Login Successful - Awaiting OTP Verification
+Timestamp: 2024-12-03T17:16:50.800468700, User: abdul13, Action: Login Successful - Awaiting OTP Verification
+Timestamp: 2024-12-03T17:17:20.264231600, User: abdul13, Action: Login Failed - Incorrect Password
+Timestamp: 2024-12-03T17:17:41.001901700, User: abdul13, Action: Login Successful - Awaiting OTP Verification
+Timestamp: 2024-12-03T17:17:49.288767600, User: abdul13, Action: Login Failed - Incorrect OTP
+Timestamp: 2024-12-03T17:17:53.696458800, User: asf, Action: Login Failed - User Not Found
+Timestamp: 2024-12-03T17:18:17.736327500, User: mohammed, Action: Login Failed - Incorrect Password
+Timestamp: 2024-12-03T17:18:24.961055700, User: mohammed, Action: Login Failed - Incorrect Password
+Timestamp: 2024-12-03T17:18:38.360439200, User: mohammed, Action: Login Failed - Incorrect Password
+Timestamp: 2024-12-03T20:26:12.040146200, User: abdul123, Action: Login Failed - Incorrect Password
+Timestamp: 2024-12-03T20:26:36.415332900, User: abdul123, Action: Login Failed - Incorrect Password
+Timestamp: 2024-12-03T20:26:47.430129200, User: abdul123, Action: Login Successful - Awaiting OTP Verification
+Timestamp: 2024-12-03T20:26:55.779706700, User: abdul123, Action: Login Successful - OTP Verified
+Timestamp: 2024-12-03T20:27:15.838264800, User: abdul123, Action: Login Failed - Incorrect Password
+Timestamp: 2024-12-03T20:27:18.565247100, User: abdul123, Action: Login Failed - Incorrect Password
+Timestamp: 2024-12-03T20:27:22.397755, User: abdul123, Action: Login Failed - Incorrect Password
+Timestamp: 2024-12-03T20:50:02.583422300, User: abdul, Action: Login Successful - Awaiting OTP Verification
+Timestamp: 2024-12-03T20:50:06.093579400, User: abdul, Action: Login Successful - OTP Verified
+Timestamp: 2024-12-03T20:50:41.650892800, User: abdul, Action: Transfer - Amount: $500.0 to mohammed Type: national
+Timestamp: 2024-12-03T20:51:52.358834700, User: abdul, Action: Bill Payment - Amount: $120.0 Type: water
+Timestamp: 2024-12-03T21:04:12.736797200, User: salman, Action: Login Failed - Incorrect Password
+Timestamp: 2024-12-03T21:04:42.439797600, User: salman, Action: Login Failed - Incorrect Password
+Timestamp: 2024-12-03T21:04:52.095258100, User: salman, Action: Login Failed - Incorrect Password
+Timestamp: 2024-12-03T21:06:08.383212400, User: abdulrahman, Action: Login Successful - Awaiting OTP Verification
+Timestamp: 2024-12-03T21:06:13.741086100, User: abdulrahman, Action: Login Failed - Incorrect OTP
+Timestamp: 2024-12-03T21:06:17.763900, User: abdulrahman, Action: Login Successful - Awaiting OTP Verification
+Timestamp: 2024-12-03T21:06:20.933789900, User: abdulrahman, Action: Login Successful - OTP Verified
+Timestamp: 2024-12-03T21:08:35.680971600, User: abdulrahman, Action: Transfer - Amount: $200.0 to abdul Type: local
+Timestamp: 2024-12-03T21:08:57.031282, User: abdulrahman, Action: Bill Payment - Amount: $120.0 Type: gas
+Timestamp: 2024-12-03T21:09:52.693196100, User: abdulrahman, Action: Transfer - Amount: $200.0 to abdul Type: local
+Timestamp: 2024-12-03T21:12:03.734091200, User: abdulrahman, Action: Login Successful - Awaiting OTP Verification
+Timestamp: 2024-12-03T21:12:06.485550300, User: abdulrahman, Action: Login Successful - OTP Verified
