@@ -30,7 +30,7 @@ I worked on:
 
 ## 📁 Technologies Used
 
-- Programming Language: Java (or your actual language)
+- Programming Language: Java 
 - Architecture: 3-tier system (client – logic – database)
 - Security: DES encryption, input validation, RBAC
 
